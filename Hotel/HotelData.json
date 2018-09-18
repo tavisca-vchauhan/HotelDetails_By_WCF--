@@ -1,0 +1,32 @@
+[
+  {
+    "hotelName": "Hyatt",
+    "hotelId": "1",
+    "address": "WeikField, Viman Nagar, Pune",
+    "starRating": 4.5
+  },
+  {
+    "hotelName": "Novotel",
+    "hotelId": "2",
+    "address": "WeikField, Viman Nagar, Pune",
+    "starRating": 4.5
+  },
+  {
+    "hotelName": "Orchid",
+    "hotelId": "3",
+    "address": "Kharadi,Pune",
+    "starRating": 3.5
+  },
+  {
+    "hotelName": "IBIS",
+    "hotelId": "4",
+    "address": "Sakore Nagar, Viman Nagar, Pune",
+    "starRating": 3
+  },
+  {
+    "hotelName": "Radisson Blu",
+    "hotelId": "5",
+    "address": "Kharadi,Pune",
+    "starRating": 4.5
+  }
+]

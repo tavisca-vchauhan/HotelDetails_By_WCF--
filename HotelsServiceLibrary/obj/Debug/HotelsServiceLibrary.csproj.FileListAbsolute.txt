@@ -1,0 +1,9 @@
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\bin\Debug\HotelsServiceLibrary.dll.config
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\bin\Debug\HotelsServiceLibrary.dll
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\bin\Debug\HotelsServiceLibrary.pdb
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\obj\Debug\HotelsServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\obj\Debug\HotelsServiceLibrary.dll
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\obj\Debug\HotelsServiceLibrary.pdb
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vchauhan\source\repos\HotelsServiceLibrary\obj\Debug\HotelsServiceLibrary.csproj.CopyComplete
